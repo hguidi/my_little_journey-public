@@ -1,8 +1,8 @@
 # Privacy Policy for My Little Journey
 
 **Effective date:** July 27, 2026  
-**Developer:** Henrique Guidi  
-**Contact:** henrique.guidi@gmail.com
+**Developer:** Henrique Guidi (HGuidi)
+**Contact:** contact.mylittlejourney@gmail.com
 
 My Little Journey is a game designed for young children. Protecting children
 and their privacy is important to us. The game is designed to work offline and
@@ -88,5 +88,5 @@ store disclosures will be updated before that version is released.
 
 Questions about this privacy policy may be sent to:
 
-Henrique Guidi  
-henrique.guidi@gmail.com
+Henrique Guidi (HGuidi)  
+contact.mylittlejourney@gmail.com 
