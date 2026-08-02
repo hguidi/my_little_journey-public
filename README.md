@@ -110,3 +110,17 @@ helping introduce the one who follows. Families who stay with the journey may
 find that its ending is also a new beginning.
 
 Take the controller—or simply get comfortable—and begin **My Little Journey**.
+
+## Support
+
+If you have questions, need help, want to report a bug, or have suggestions for future updates, we'd love to hear from you.
+
+📧 Email: contact.mylittlejourney@gmail.com
+
+When contacting support, please include, if possible:
+
+- The device you are using (for example, iPhone, iPad, Android tablet, or Google TV)
+- The operating system version (iOS, iPadOS, Android, or Google TV)
+- A brief description of the issue, along with the steps to reproduce it (if applicable)
+
+I aim to respond as quickly as possible and appreciate your feedback.
