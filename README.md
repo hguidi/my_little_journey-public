@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="My Little Journey" width="560">
+  <img src="assets/sprites/logo_simple.png" alt="My Little Journey" width="560">
 
   # My Little Journey
 
@@ -43,9 +43,9 @@ My Little Journey can be enjoyed in several ways:
 
 ### Watch mode
 
-Put it on and let the built-in player guide the characters. The large sprites,
-contrasting colors, calm music, and smooth movement create a sensory experience
-that continues without constant adult input.
+With a caregiver nearby, let the built-in player guide the characters. The large
+sprites, contrasting colors, calm music, and smooth movement create a sensory
+experience that does not require constant controller input.
 
 ### Play together
 
@@ -92,6 +92,40 @@ journey.
 My Little Journey is not intended to replace active play, conversation, or time
 with family. It is designed to make the moments when a screen is used calmer,
 more playful, and easier to share.
+
+## A thoughtful note about screen time
+
+My Little Journey was designed to make screen time gentler and easier to share,
+but even calm, carefully made media cannot replace the experiences babies need
+most: face-to-face interaction, conversation, movement, sleep, reading, and
+hands-on exploration.
+
+The American Academy of Pediatrics notes that infants under 18 months learn best
+through real-world interactions. Prolonged or heavy solo screen use can crowd
+out important opportunities to develop language, thinking, movement, social
+skills, patience, and self-control, and may also interfere with healthy sleep.
+
+If you choose to share this journey with a baby:
+
+- Keep viewing brief and stay nearby rather than using the game as a babysitter.
+- Play together: name the animals and colors, count objects, sing, point, and
+  respond to the baby's reactions.
+- Let the game inspire something away from the screen, such as moving like the
+  animals, finding colors, reading a story, or exploring outside.
+- Avoid making a screen the primary way to calm crying, encourage eating, or
+  help a baby fall asleep.
+- Stop or take a break if the baby turns away, becomes fussy, seems tired, or
+  appears overwhelmed.
+
+Autoplay exists to keep the story flowing when nobody is holding the controller;
+it is not an invitation for prolonged or unattended viewing. Every child and
+family is different, so parents and caregivers should use their judgment and
+consult their pediatrician when they have questions about media use or
+development.
+
+For additional guidance, see the American Academy of Pediatrics resources on
+[helping children thrive in a digital world](https://www.healthychildren.org/English/family-life/Media/Pages/helping-kids-thrive-in-a-digital-world-AAP-policy-explained.aspx)
+and the [5 C's of media use for infants](https://www.healthychildren.org/English/family-life/Media/Pages/infants-and-screen-time-5-cs-questions-to-ask.aspx).
 
 ## There is more than meets the eye
 
