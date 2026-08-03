@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/sprites/logo_simple.png" alt="My Little Journey" width="560">
+  <img src="logo.png" alt="My Little Journey" width="560">
 
   # My Little Journey
 
